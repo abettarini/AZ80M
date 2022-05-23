@@ -6,8 +6,8 @@
 
   (title_block
     (title "AZ80 Memory Board 1648")
-    (date "2022-05-22")
-    (rev "v1.0")
+    (date "2022-05-23")
+    (rev "v1.1")
     (company "Andrea Bettarini")
   )
 

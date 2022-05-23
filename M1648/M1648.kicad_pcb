@@ -7,8 +7,8 @@
   (paper "A4")
   (title_block
     (title "AZ80 Mermory Board 1648")
-    (date "2022-05-22")
-    (rev "v1.0")
+    (date "2022-05-23")
+    (rev "v1.1")
     (company "Andrea Bettarini")
     (comment 1 "Scheda memoria 16Kb ROM - 48Kb Ram")
   )

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "Z80HB---Modular-rescue")(type "Legacy")(uri "${KIPRJMOD}/Z80HB - Modular-rescue.lib")(options "")(descr ""))
+  (lib (name "Z80HB")(type "KiCad")(uri "${KIPRJMOD}/Z80HB.kicad_sym")(options "")(descr ""))
+  (lib (name "2n3905")(type "KiCad")(uri "${KIPRJMOD}/2n3905.kicad_sym")(options "")(descr ""))
+)
